@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Computer Engineering, Minor Mathematics, University of California San Diego, 2020-2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Student Assistant
+  * Lawrence Berkeley National Laboratory
+  * Project: Using Skywater 130nm open source tools to test chip prototypes
+  * Supervisor: Carl Grace
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Open Source Developer
+  * Google Summer of Code
+  * Project: IRSIM dynamic power analysis updates, Magic VLSI EDA algorithm development, and other improvements
+  * Supervisor: R. Timothy Edwards
+
+* Summer 2021 - Present: Undergraduate Researcher
+  * UCSD Duarte Lab
+  * Project: Model Optimization for MLPerf Tiny benchmark, ingesting QONNX into hls4ml-FINN workflow
+  * Supervisor: Javier Duarte
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C, C++, Java, Tcl, bash, SystemVerilog, VHDL, ARM Assembly
+* Libraries/Frameworks: PyTorch, TensorFlow, ONNX, NumPy, pytest 
+* Software Tools: Intel Quartus, Xilinx Vivado, ModelSim, Synopsys Design Compiler
+* General Knowledge: UVM, graph algorithms, computer architecture, structured VLSI design, basic deep learning 
 
 Publications
 ======
@@ -42,7 +43,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -53,7 +54,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* UCSD IEEE Co-Professional Chair (October 2021 - Present)
