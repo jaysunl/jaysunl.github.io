@@ -15,15 +15,6 @@ Education
 
 Work experience
 ======
-* Summer 2022: Student Assistant
-  * Lawrence Berkeley National Laboratory
-  * Project: Using Skywater 130nm open source tools to test chip prototypes
-  * Supervisor: Carl Grace
-
-* Summer 2022: Open Source Developer
-  * Google Summer of Code
-  * Project: IRSIM dynamic power analysis updates, Magic VLSI EDA algorithm development, and other improvements
-  * Supervisor: R. Timothy Edwards
 
 * Summer 2021 - Present: Undergraduate Researcher
   * UCSD Duarte Lab
