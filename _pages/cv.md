@@ -32,8 +32,8 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+  <ul>{% Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark (MLSys Conference 2022) %}
+    {% include https://arxiv.org/abs/2206.11791 %}
   {% endfor %}</ul>
   
 Service and leadership
