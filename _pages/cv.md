@@ -15,37 +15,26 @@ Education
 
 Work experience
 ======
+* June 2022 - September 2022: Physical Design Engineer Intern
+  * Lawrence Berkeley National Laboratory
+  * Project: Physical design of a mixed-signal readout chip for accelerated machine learning
+  * References: Carl Grace, Maurice Garcia-Sciveres, Tarun Prakash 
 
-* Summer 2021 - Present: Undergraduate Researcher
+* June 2022 - September 2022: Software Intern
+  * Google Summer of Code
+  * Project: IRSIM dynamic power analysis tool and other improvements
+  * Reference: Tim Edwards 
+
+* June 2021 - Present: Undergraduate Researcher
   * UCSD Duarte Lab
-  * Project: Model Optimization for MLPerf Tiny benchmark, ingesting QONNX into hls4ml-FINN workflow
-  * Supervisor: Javier Duarte
-  
-Skills
-======
-* Programming: Python, C, C++, Java, Tcl, bash, SystemVerilog, VHDL, ARM Assembly
-* Libraries/Frameworks: PyTorch, TensorFlow, ONNX, NumPy, pytest 
-* Software Tools: Intel Quartus, Xilinx Vivado, ModelSim, Synopsys Design Compiler
-* General Knowledge: UVM, graph algorithms, computer architecture, structured VLSI design, basic deep learning 
+  * Project: Model optimization for MLPerf Tiny benchmark, ingesting QONNX into hls4ml-FINN workflow
+  * Reference: Javier Duarte
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-<!--Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
   
 Service and leadership
 ======
