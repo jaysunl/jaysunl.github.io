@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-06-23-open-source-fpga
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2022-06-23
+venue: 'Contribution to 3rd Workshop on Benchmarking Machine Learning Workloads on Emerging Hardware (MLBench) at 5th Conference on Machine Learning and Systems (MLSys)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark. ArXiv, abs/2206.11791.
+citation: 'Borras, H.W., Guglielmo, G.D., Duarte, J.M., Ghielmetti, N., Hawks, B., Hauck, S., Hsu, S., Kastner, R., Liang, J., Meza, A., Muhizi, J., Nguyen, T., Roy, R., Tran, N., Umuroglu, Y., Weng, O., Yokuda, A., & Blott, M. (2022). &quot;Open-Source FPGA-ML codesign for the MLPerf Tiny Benchmark.&quot; <i>Journal 1</i>. 5th Conference on Machine Learning and Systems (MLSys).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/pdf/2206.11791v1.pdf)
