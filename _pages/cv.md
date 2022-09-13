@@ -15,9 +15,9 @@ Education
 
 Work experience
 ======
-* June 2022 - September 2022: Physical Design Engineer Intern
+* June 2022 - September 2022: Logic Design Engineer Intern
   * Lawrence Berkeley National Laboratory
-  * Project: Physical design of a mixed-signal readout chip for accelerated machine learning
+  * Project: Physical design of an open source ASIC/FPGA architecture for accelerated machine learning
   * References: Carl Grace, Maurice Garcia-Sciveres, Tarun Prakash 
 
 * June 2022 - September 2022: Software Intern
