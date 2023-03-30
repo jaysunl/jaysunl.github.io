@@ -44,3 +44,22 @@ Publications
 Service and leadership
 ======
 * UCSD IEEE Co-Professional Chair (October 2021 - Present)
+
+Coursework
+======
+* Completed
+  * Digital Design
+  * Microelectronics (VLSI) System Design
+  * Analog Design
+  * Engineering Probability and Statistics
+  * Data Structures/Algorithms
+  * Computer Architecture
+  * Operating Systems
+  * Extremal Combinatorics and Graph Theory
+  * Artificial Intelligence: Search and Reasoning
+  * Deep Learning
+* Planned
+  * Numerical Analysis: Approximation and Nonlinear Equations
+  * Numerical Analysis: ODEs
+  * Introduction to Numerical Optimization: Linear Programming
+  * Introduction to Numerical Optimization: Nonlinear Programming
