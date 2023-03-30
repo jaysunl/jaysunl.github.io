@@ -15,7 +15,7 @@ Education
 
 Work experience 
 ======
-* June 2022 - September 2022: CAD Intern
+* September 2023 - December 2023: CAD Intern
   * Lattice Semiconductor
   * In-house FPGA physical design flow
 
