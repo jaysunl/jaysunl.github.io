@@ -13,17 +13,27 @@ Education
 ======
 * B.S. Computer Engineering, Minor Mathematics, University of California San Diego, 2020-2024
 
-Work experience 
+Experience 
 ======
-* September 2023 - December 2023: CAD Intern
+* June 2024 - September 2024: CAD Design Implementation Intern
+  * NVIDIA
+  * CPU/GPU/SoC logic design methodology (synthesis, place and route, RTL lint/CDC)
+
+* September 2023 - January 2024, March 2024 - June 2024: CAD Intern
   * Lattice Semiconductor
-  * In-house FPGA physical design flow
+  * Data mining and machine learning predictions for DRC flows
+  * EDA Chatbot for documentation and other queries
+  * Logic design methodology
 
 * June 2023 - September 2023: Software Intern
   * Cadence Design Systems
-  * Quantus RC Extraction
+  * Quantus RC Extraction network diagnostics
+ 
+* January 2023 - Present: Research Assistant
+  * Turakhia Lab
+  * Dynamic programming algorithm implementation on FPGA using high-level synthesis (HLS)
 
-* June 2022 - September 2022: Logic Design Engineer Intern
+* June 2022 - September 2022: Researcher
   * Lawrence Berkeley National Laboratory
   * Physical design of an open source ASIC/FPGA architecture for accelerated machine learning
 
@@ -31,7 +41,7 @@ Work experience
   * Google Summer of Code
   * IRSIM dynamic power analysis tool and other improvements
 
-* June 2021 - Present: Undergraduate Researcher
+* June 2021 - March 2022: Undergraduate Researcher
   * UCSD Duarte Lab
   * Model optimization for MLPerf Tiny benchmark, ingesting QONNX into hls4ml-FINN workflow
 
@@ -47,19 +57,31 @@ Service and leadership
 
 Coursework
 ======
-* Completed
+* Electrical Engineering
   * Digital Design
-  * Microelectronics (VLSI) System Design
   * Analog Design
+  * Digital Electronics
   * Engineering Probability and Statistics
+  * Linear Systems
+  * Signals and Systems
+  * Data Networks
+* Computer Science
+  * Object Oriented Programming
+  * Discrete Mathematics
   * Data Structures/Algorithms
+  * Digital Systems
+  * Computer Organization
   * Computer Architecture
-  * Operating Systems
-  * Extremal Combinatorics and Graph Theory
-  * Artificial Intelligence: Search and Reasoning
+  * Operation Systems
+  * Software Engineering
+  * Machine Learning
   * Deep Learning
-* Planned
-  * Numerical Analysis: Approximation and Nonlinear Equations
-  * Numerical Analysis: ODEs
-  * Introduction to Numerical Optimization: Linear Programming
-  * Introduction to Numerical Optimization: Nonlinear Programming
+  * Artificial Intelligence: Search and Reasoning
+  * Microelectronics (VLSI) System Design
+* Mathematics
+  * Introduction to Numerical Analysis: Linear Algebra
+  * Applied Linear Algebra
+  * Differential Equations
+  * Vector Calculus
+  * Extremal Combinatorics and Graph Theory
+  * Mathematical Statistics
